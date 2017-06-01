@@ -1,0 +1,109 @@
+.navbar-top{
+  margin-bottom: 0;
+}
+.jumbotron{
+  background-color: #6f5499;
+  color: white;
+  margin:0;
+}
+.container-fluid{
+  padding-top: 10px;
+}
+.jumbotron button{
+  background-color: #6f5499;
+  color: white;
+  border-color: white;
+  margin-top: 30px;
+}
+.jumbotron h1{
+  border-color: white;
+  font-size: 7em;
+  padding-left: 40px;
+  padding-right: 40px;
+  margin-bottom: 30px;
+  border-radius: 20px;
+}
+.jumbotron p{
+  font-size: 2em;
+  margin-bottom: 0;
+}
+.section{
+  text-align: center;
+  margin-top: 100px;
+}
+.section h2{
+  font-size: 3em;
+}
+.section p{
+  font-size: 1.5em;
+}
+.col-md-4 img{
+  width: 350px;
+  margin-top: 80px;
+}
+.col-md-4 h3{
+  text-align: center;
+}
+.col-md-4 p{
+font-size: 1em;
+}
+.git{
+  margin-top: 30px;
+}
+.git p{
+  text-align: center;
+  font-size: 1.5em;
+}
+.git button{
+  align-self: center;
+  background-color: white;
+  border-color: #6f5499;
+  margin-left: 40%;
+}
+hr{
+  margin-top: 5%;
+  margin-bottom: 5%;
+  padding: 0;
+}
+.images h1{
+  text-align: center;
+}
+.images p{
+  text-align: center;
+  font-size: 1.5em;
+  margin-bottom: 0;
+}
+.images img{
+  width: 350px;
+  margin-top: 100px;
+  margin-bottom: 50px;
+}
+.images button{
+  background-color: white;
+  border-color: #6f5499;
+  margin-left: 43%;
+  margin-top: 20px;
+}
+.container-fluid{
+  background-color: #2a2730;
+}
+.container-fluid ul{
+  margin-left: 80px;
+}
+.container-fluid a li{
+  color: white;
+}
+.container-fluid p{
+  margin-left: 80px;
+  color: #99979c;
+}
+footer{
+  background-color: #282730;
+  margin-top: 50px;
+  height: 200px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+footer a{
+  color: white;
+}
